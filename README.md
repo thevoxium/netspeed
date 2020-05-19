@@ -37,7 +37,7 @@ Open the terminal and enter the command:
 ```
 netspeed run
 ```
-A window will appear. Clickthe top button and wait for some time (usually 20 sec)
+A window will appear. Click the top button and wait for some time (usually 20 sec)
 Results will be shown.
 
 
